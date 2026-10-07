@@ -1,8 +1,10 @@
 # Bilance: compound batch dosing and production records for calendering lines
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23186695.svg)](https://doi.org/10.5281/zenodo.23186695)
+
 *Dosaggio delle mescole e registrazione della produzione per le linee di calandratura*
 
-**Visual Basic 6** · 2002–2003 · version 7.4.7  
+2002–2003 · version 7.4.7  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -32,7 +34,7 @@ DAO 3.6, Microsoft Access object library, Crystal Reports 8.5 (RDC, viewer, expo
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -41,14 +43,14 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [calender-production-orders-vb6](https://github.com/massimosbarbaro/calender-production-orders-vb6)
-- [compound-cost-analysis-vb6](https://github.com/massimosbarbaro/compound-cost-analysis-vb6)
+- [calender-production-orders](https://github.com/massimosbarbaro/calender-production-orders)
+- [compound-cost-analysis](https://github.com/massimosbarbaro/compound-cost-analysis)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23186695](https://doi.org/10.5281/zenodo.23186695).
 
-> Sbarbaro, Massimo. *Bilance: compound batch dosing and production records for calendering lines (Visual Basic 6, 2002–2003)*. Software, version 7.4.7. GitHub: https://github.com/massimosbarbaro/compound-batch-dosing-vb6
+> Sbarbaro, Massimo. 2003. *Bilance: compound batch dosing and production records for calendering lines*. Software (2002–2003), version 7.4.7. Zenodo. https://doi.org/10.5281/zenodo.23186695.
 
 ## License
 
